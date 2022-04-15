@@ -1,0 +1,2 @@
+MailboxValidator==1.2.0
+python-decouple==3.6
